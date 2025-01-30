@@ -1,0 +1,5 @@
+train: images/train
+val: images/val
+
+nc: 4
+names: ['FR-II', 'FR-I', 'FR-X', 'R']
