@@ -22,5 +22,4 @@ a model.
    In: Publications of the Astronomical Society of Australia 41 (2024).
 2. N. Gupta, R. Norris, M. Huynh, Z. Hayder, and L. Petersson, 
 “RadioGalaxyNET Dataset - Extended Radio Galaxies. v1. CSIRO.
-Data Collection.” 2024. [Online]. Available: https://doi.org/10.25919/
-btk3-vx79
+Data Collection.” 2024. [Online]. Available: https://doi.org/10.25919/btk3-vx79
